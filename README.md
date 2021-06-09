@@ -1,2 +1,2 @@
 # CS114.K21
-# Nguyễn Dương Trúc Phương 
+Pratices of Machine Learning
